@@ -1,7 +1,17 @@
 aid: juxta
 name: Juxta
-description: 'Juxta is a company surfaced as a portfolio company of crv and added to the API Evangelist
-  network as a stub for enrichment. Sector: unknown. This profile is a lead awaiting the enrichment pipeline.'
+description: 'Juxta is a San Francisco positioning-technology company building a hardware-free
+  Universal Positioning System (UPS) that delivers real-time indoor and outdoor tracking
+  for people, assets, and robots with sub-meter accuracy indoors and roughly 3-meter
+  accuracy outdoors. Rather than relying on satellites, beacons, or cameras, Juxta uses
+  the inertial (IMU) sensors already present in mobile devices, robots, and machinery
+  combined with machine-learning "synthetic fingerprinting" to map and track subjects
+  in GPS-denied environments such as warehouses, hospitals, underground facilities, and
+  battlefields. Its drag-and-drop deployment ingests a floorplan, satellite image, or
+  CAD file and goes live in hours, priced by mapped area and assets tracked. Juxta serves
+  defense, logistics and robotics, and healthcare, and is backed by Y Combinator and
+  other early-stage investors. Access today is through a partner portal and booked demo;
+  no public developer API is documented.'
 url: https://raw.githubusercontent.com/api-evangelist/juxta/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,12 +19,33 @@ x-backed-by:
 - crv
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://www.juxta.com/favicon.png
 tags:
 - Company
-- Unknown
+- Positioning
+- Location
+- Geospatial
+- Indoor Positioning
+- Asset Tracking
+- Navigation
+- Robotics
+- Defense
+- Logistics
+- Healthcare
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +55,20 @@ maintainers:
 common:
 - type: Website
   url: https://www.juxta.com/
+- type: Blog
+  url: https://www.juxta.com/blog
+- type: Login
+  url: https://portal.juxta.com/login
+- type: PrivacyPolicy
+  url: https://www.juxta.com/privacy
+- type: TermsOfService
+  url: https://www.juxta.com/terms
+- type: LLMsTxt
+  url: llms/juxta-llms.txt
+- type: DomainSecurity
+  url: security/juxta-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

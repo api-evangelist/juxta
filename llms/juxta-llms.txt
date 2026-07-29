@@ -1,0 +1,88 @@
+# Juxta
+
+Juxta is a technology company dedicated to mapping the invisible corners of the Earth through its Universal Positioning System (UPS). Recognizing that humans and objects spend 90% of their lifetimes indoors or in areas inaccessible to GPS, Juxta has developed a novel, hardware-free positioning technology that enables real-time tracking anywhere on the planet. The platform is designed to serve a wide range of industries, including healthcare, logistics, defense, and robotics, offering sub-meter accuracy indoors and reliable performance outdoors, underground, and in GPS-denied environments.
+
+Juxta’s mission is to deliver intuitive, deliverable technology that enhances coordination, efficiency, and safety across sectors. The company is spearheaded by leading researchers in localization and is backed by prominent investors such as Y Combinator, Velocity Catalyst, Authentic Ventures, Lynett Capital, Chicago Early, and Josephine Collective. Juxta is industry-agnostic and partners with organizations eager to integrate advanced positioning and tracking capabilities without the need for additional hardware or complex infrastructure.
+
+## Core Products & Services
+
+### Universal Positioning System (UPS)
+- What it does: Provides real-time, hardware-free indoor and outdoor positioning and tracking for people, assets, and robots, with sub-meter accuracy indoors and approximately 3-meter accuracy outdoors.
+- Who uses it: Organizations in healthcare, logistics, defense, robotics, and any sector requiring precise location tracking in GPS-inaccessible or complex environments.
+- Key features:
+  - Hardware-free operation using existing sensors in mobile devices, robots, or machinery
+  - Synthetic fingerprinting for rapid, remote deployment
+  - Offline-capable and minimal internet requirements
+  - Secure, encrypted data handling
+  - Autonomous floorplan updating and real-time asset/personnel tracking
+  - Device flexibility (supports any IMU-enabled device or Juxta clip)
+  - Remote setup and instant deployment
+- Pricing: Pay by mapped area and/or number of assets tracked
+
+
+## Use Cases & Applications
+
+### Defense
+- Their needs: Reliable tracking and navigation in complex, GPS-denied, or jammed environments such as urban battlefields and underground facilities.
+- How they use it: Instant deployment from satellite images, covert intelligence gathering by OTA deployment on adversarial devices, and monitoring troop and equipment movement without emitting detectable signals.
+- Results: Enhanced situational awareness, untraceable tracking, and improved safety for personnel.
+
+### Logistics & Robotics
+- Their needs: Asset tracking, loss prevention, and efficient monitoring of tools, vehicles, and inventory across large or complex facilities without expensive hardware.
+- How they use it: Real-time monitoring of assets and personnel, device-agnostic tracking, and rapid remapping for changing floor layouts.
+- Results: Reduced asset loss, increased operational efficiency, and lower deployment costs.
+
+### Healthcare
+- Their needs: Affordable, easy-to-maintain location tracking for patients, staff, and assets, with minimal IT overhead and compliance with privacy regulations.
+- How they use it: Real-time patient and asset tracking, integration with third-party vendor devices, and always-on safety features for emergency response.
+- Results: Improved care delivery, enhanced safety, and streamlined operations with minimal maintenance.
+
+## Feature Deep Dive
+
+### Synthetic Fingerprinting
+- How it works: Simulates the movement of millions of people across a mapped space, aggregating simulated sensor data to train advanced machine learning models for positioning.
+- Benefits: Enables rapid, remote deployment of the positioning system in new areas without the need for calibration walks or on-site hardware installation.
+- Requirements: Upload of a floorplan, satellite image, or CAD file to generate a virtual, trackable environment.
+
+### Drag & Drop Tracking
+- How it works: Users upload a floorplan, satellite image, or CAD file, which is automatically polygonized by machine learning algorithms. The backend generates a virtual map, allowing users to select deployment settings and delivery mode (web link or software package). Deployment is completed in hours, and tracking begins immediately.
+- Benefits: Fast, intuitive setup with no calibration or hardware required. Pay only for the area and assets tracked.
+- Requirements: Digital building layout file and access to the Juxta dashboard.
+
+### Hardware-Free Operation
+- How it works: Leverages existing sensors (IMU) in mobile devices, robots, or machinery for positioning, eliminating the need for external beacons, anchors, or wiring.
+- Benefits: Lower costs, faster deployments, and minimal maintenance.
+- Requirements: IMU-enabled devices or Juxta clips.
+
+### Security & Privacy
+- How it works: All positioning data is encrypted end-to-end, with role-based access controls and regular audits. Patient data is handled in compliance with HIPAA and other relevant regulations.
+- Benefits: Ensures privacy, security, and regulatory compliance for sensitive environments such as healthcare and defense.
+- Requirements: User authorization and compliance with internal policies.
+
+## Getting Started
+
+- Sign-up process: Users can access the platform via portal login using building credentials or book a demo to get started.
+- Implementation timeline: From upload to live deployment, mapping and activation of spaces can be completed in just hours.
+- Support options: 24/7 support is available to partners, with guaranteed accuracy, consistency, and ongoing innovation.
+- Contact information:
+  - Email: info@juxta.com
+  - Phone: (858) 753-8444
+  - Mailing Address: Juxta HQ, 166 Geary Street, STE 700, San Francisco, CA 94108
+## Site Map
+
+Pages crawled from usejuxta.org (12 total):
+
+- [Juxta: Introducing the Universal Positioning System](https://usejuxta.org/)
+- [Juxta: Introducing the Universal Positioning System](https://www.usejuxta.org/)
+- [Juxta: Introducing the Universal Positioning System](https://www.usejuxta.org/company/about)
+- [Juxta: Introducing the Universal Positioning System](https://www.usejuxta.org/login)
+- [Juxta: Introducing the Universal Positioning System](https://www.usejuxta.org/book-demo)
+- [Juxta: Introducing the Universal Positioning System](https://www.usejuxta.org/ups/overview)
+- [Juxta: Introducing the Universal Positioning System](https://www.usejuxta.org/ups/defense)
+- [Juxta: Introducing the Universal Positioning System](https://www.usejuxta.org/ups/logistics)
+- [Juxta: Introducing the Universal Positioning System](https://www.usejuxta.org/ups/healthcare)
+- [2232 North Point St](https://maps.app.goo.gl/BfRDiRnH4KnHS28W8)
+- [Juxta: Introducing the Universal Positioning System](https://www.usejuxta.org/privacy)
+- [Juxta: Introducing the Universal Positioning System](https://www.usejuxta.org/terms)
+
+---
